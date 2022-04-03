@@ -1,0 +1,4 @@
+Created a Repository  - git clone <Repo link>
+Added a file - git add <file_name / <.>>
+Committed a file - git commit -m "<commit message>"
+Pushed a file to branch using upstream  - git push -u <origin> develop[OPTIONAL]
